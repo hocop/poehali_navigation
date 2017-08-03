@@ -1,4 +1,4 @@
-#My commands
+# Request example:
 #import requests
 #requests.post('http://127.0.0.1:5000/cord', data={'tgFi':'1.0', 'tgTh':'-0.1', 'cam':'left'}).text
 

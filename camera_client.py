@@ -16,7 +16,7 @@ camTgThMax = 0.372
 #camTgFiMax = 0.641
 #camTgThMax = 0.360
 
-serAddr = 'http://192.168.0.1:5000/cord'
+serAddr = 'http://127.0.0.1:5000/cord'
 
 minArea = 25 # minimum pixels seen to send info
 
